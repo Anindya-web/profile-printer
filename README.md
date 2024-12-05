@@ -43,11 +43,11 @@ Here is an example of what the program might look like when running:
 ```
 Please, Enter your name: John Doe
 Please, Enter your age: 25
-Please, Enter your favorite hobby name: Reading
+Please, Enter your favorite hobby name: Talking with favorite person
 
 The name is: John Doe
 The age is: 25
-The favorite hobby is: Reading
+The favorite hobby is: Talking with favorite person
 ```
 
 ## Key Concepts Demonstrated
